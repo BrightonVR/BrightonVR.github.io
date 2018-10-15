@@ -1,0 +1,17 @@
+body {
+    font-family: "Arial", "sans-serif";
+}
+
+#locator { position: absolute; visibility: visible; left: 165px; top: 142px; z-index: 200; }
+#locator1 { position: absolute; visibility: visible; left: 300px; top: 142px; z-index: 200; }
+#locator2 { position: absolute; visibility: visible; left: 560px; top: 18px; z-index: 200; }
+#locator3 { position: absolute; visibility: visible; left: 700px; top: 18px; z-index: 200; }
+#locator4 { position: absolute; visibility: visible; left: 700px; top: 59px; z-index: 200; }
+#locator5 { position: absolute; visibility: visible; left: 700px; top: 100px; z-index: 200; }
+
+div#wrapper {
+    width: 340px;
+}
+div#wrapper {
+    width: 800px;
+}
